@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+D:\Snkae\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(36,14): warning C4018: '<': no coinciden signed/unsigned
+D:\Snkae\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(37,27): warning C4018: '<': no coinciden signed/unsigned
+  ConsoleApplication1.vcxproj -> D:\Snkae\ConsoleApplication1\Debug\ConsoleApplication1.exe
